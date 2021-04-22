@@ -4,9 +4,6 @@
 
 > In this project I build a restaurant app where a user can buy nice food, this is done by navigating through menu and choose from available dishes, users can also make direct contact for orders.
 
-## Live Link
- [live Link](https://rayking12.github.io/Restaurant-page/)
-
 ## Setup
 
 To get started, you should first get this file in your local machine by cloning or forking this project or typing in your terminal

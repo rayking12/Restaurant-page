@@ -64,7 +64,7 @@ Github
 
 ## Ray King Odoh
 
-- GitHub [rayKing12](GitHub.com/rayking12)
+- GitHub [rayKing12](https://GitHub.com/rayking12)
 - Linkedin: [Ray King](https://www.linkedin.com/in/king-ray-514b89133/)
 
 ## Contributions
